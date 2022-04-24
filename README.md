@@ -33,6 +33,6 @@
 ![5](screenshots/5.jpg)
 ![6](screenshots/6.jpg)
 ![7](screenshots/7.jpg)
-![8](screenshots/8.jpg)
+![8](screenshots/8.jpeg)
 ![9](screenshots/9.jpg)
-![10](screenshots/10.jpg)
+![10](screenshots/10.jpeg)
