@@ -25,7 +25,8 @@
 
 
 ## ScreenShots
-![0](assets/images/splash.png)![1](screenshots/1.jpg)
+![0](assets/images/splash.png)
+![1](screenshots/1.jpg)
 ![2](screenshots/2.jpg)
 ![3](screenshots/3.jpg)
 ![4](screenshots/4.jpg)
